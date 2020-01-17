@@ -1,4 +1,7 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+* Located in the beautiful south of Germany
+* Co-Founder of Geospin GmbH
+* Data Scientist
+* Machine Learning Engineer
+* DevOps Apprentice
